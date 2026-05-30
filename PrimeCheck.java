@@ -14,6 +14,10 @@ public class PrimeCheck {
             if (n % i == 0 || n % (i + 2) == 0)
                 return false;
         }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 18b8efb2643f6de5f960dfd77bef0af220aa428a
         return true;
     }
 
@@ -30,4 +34,8 @@ public class PrimeCheck {
 
         sc.close();
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 18b8efb2643f6de5f960dfd77bef0af220aa428a
