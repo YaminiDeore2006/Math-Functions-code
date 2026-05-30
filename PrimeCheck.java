@@ -14,7 +14,6 @@ public class PrimeCheck {
             if (n % i == 0 || n % (i + 2) == 0)
                 return false;
         }
-
         return true;
     }
 
